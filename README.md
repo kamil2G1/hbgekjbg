@@ -1,2 +1,2 @@
-# hbgekjbg
+# strona internetowa
 cwiczenia
